@@ -1,0 +1,5 @@
+{
+  "name": "Street Dog Simulator",
+  "description": "A side-scrolling game where you control a street dog in India, navigating through city challenges like traffic, dog catchers, and other obstacles to survive as long as possible.",
+  "requestFramePermissions": []
+}
